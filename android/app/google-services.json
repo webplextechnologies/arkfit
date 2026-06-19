@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "691755548374",
+    "project_id": "arkfit-app",
+    "storage_bucket": "arkfit-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691755548374:android:26a70267b988a47510d377",
+        "android_client_info": {
+          "package_name": "com.kamricmedical.arkfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691755548374-u11aj563lom9e8j6hdktok5ssgeano52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYI5evQvLaOul6TiNz0pzkt0cX2EusnEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691755548374-u11aj563lom9e8j6hdktok5ssgeano52.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691755548374-2pkkfp1e9nl6vbnr48q38o6e2m8gqnii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webopedian.arkfit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691755548374:android:a303de63f30383b510d377",
+        "android_client_info": {
+          "package_name": "com.webopedian.arkfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691755548374-apjfcf2397g4h29a5abl2t2j6dl1jv4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webopedian.arkfit",
+            "certificate_hash": "c8be77c83e1b2d64cf517cb8beecc39c876cd2d7"
+          }
+        },
+        {
+          "client_id": "691755548374-k1gmr377g1v2imedma3o55q6ganev92r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webopedian.arkfit",
+            "certificate_hash": "e5219677df1ef774167a2d407d8d56e4681089ea"
+          }
+        },
+        {
+          "client_id": "691755548374-k82sfb3pvnh47g91035p5u561p4jj4nd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webopedian.arkfit",
+            "certificate_hash": "adb1781216c0ae427989242b843fb571864a86b9"
+          }
+        },
+        {
+          "client_id": "691755548374-u11aj563lom9e8j6hdktok5ssgeano52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYI5evQvLaOul6TiNz0pzkt0cX2EusnEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691755548374-u11aj563lom9e8j6hdktok5ssgeano52.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691755548374-2pkkfp1e9nl6vbnr48q38o6e2m8gqnii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webopedian.arkfit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
